@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Security Academy&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Security_Academy&fontSize=90)
 
 # 프로젝트 설명
 - 프로젝트 : php를 이용한 웹 취약점 실습 페이지 제작
