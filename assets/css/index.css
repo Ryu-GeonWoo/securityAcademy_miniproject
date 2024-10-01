@@ -1,0 +1,27 @@
+
+/* 리스트 스타일 */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* 리스트 항목 스타일 */
+li {
+    background-color: #fff;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+/* 링크 스타일 */
+li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+/* 링크 호버 스타일 */
+li a:hover {
+    color: #007BFF;
+}

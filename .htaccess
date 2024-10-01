@@ -1,0 +1,3 @@
+# /var/www/html/.htaccess
+
+DirectoryIndex index.php index.html

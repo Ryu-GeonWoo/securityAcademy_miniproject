@@ -1,0 +1,56 @@
+/* ping.css */
+
+/* 컨테이너 스타일 */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+/* 입력 필드 스타일 */
+.ping-form input[type="text"] {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+/* 제출 버튼 스타일 */
+.ping-form .submit-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #3498db;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.ping-form .submit-button:hover {
+    background-color: #aaaaaa;
+}
+
+/* 결과 제목 스타일 */
+h3 {
+    color: #16a085;
+    margin-top: 20px;
+}
+
+/* 실행 결과 출력 스타일 */
+.result-output {
+    background-color: #f4f4f4;
+    border: 2px solid #3498db;
+    border-radius: 5px;
+    color: #333;
+    font-family: monospace;
+    font-size: 14px;
+    line-height: 1.5;
+    margin-top: 20px;
+    padding: 15px;
+    text-align: left;
+    white-space: pre-wrap; /* 긴 줄이 자동으로 줄바꿈되도록 설정 */
+    overflow-x: auto; /* 긴 내용이 있을 경우 가로 스크롤 추가 */
+    word-wrap: break-word; /* 길이가 긴 단어를 줄바꿈하여 출력 */
+}
